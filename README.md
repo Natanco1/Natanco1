@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanco1&label=Profile%20views&color=0e75b6&style=flat" alt="natanco1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natanco1" alt="natanco1" /></a> </p>
-
 - I’m currently working on **a scientific initiation project for CNPQ**
 
 - I’m currently learning **Flutter, Vue 3, YOLOv8, MongoDb, Firebase and PyTorch!**
