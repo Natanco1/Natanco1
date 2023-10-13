@@ -12,7 +12,7 @@
 <p align="justify">Hello, my name is Natã, I'm 20 years old and I'm currently studying the 6th semester of Mechatronics Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
 
 <p align="justify">
-I am passionate about technology and my goal is to become a senior developer. Currently, I'm improving myself in web and mobile development, focusing my efforts on mastering the tools and frameworks of the JavaScript and flutter ecosystem, such as Electron, Node.js, Three.js, among others. However, as a developer, I understand that it is essential to know how to solve problems in the best possible way, regardless of technology.</p>
+I am passionate about technology and my goal is to become a senior developer. Currently, I'm improving myself in web and mobile development, focusing my efforts on mastering the tools and frameworks of the JavaScript and flutter ecosystem. I also aim to get better at problem solving and datastructures</p>
 
 ## Programming Language
 <div>
@@ -33,6 +33,7 @@ I am passionate about technology and my goal is to become a senior developer. Cu
 ## Currently Learning
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="50"/>
   
 </div>
 
