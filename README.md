@@ -47,10 +47,3 @@ I am passionate about technology and my goal is to become a senior developer. Cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="50"/>
 </div>
-
-## Stats
-<div align="center">
-  <a href="https://github.com/Natanco1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Natanco1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanco1&layout=compact&langs_count=7&theme=dark"/>
-</div>
