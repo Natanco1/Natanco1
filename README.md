@@ -9,7 +9,7 @@
 
 ---
 
-### 🧑💻 Languages:
+### Languages:
 <div style="display: inline_block"><br>
 
 [![Languages](https://skillicons.dev/icons?i=python,dart,javascript,c,bash,typescript&perline=3)](https://skillicons.dev)
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tools:
+### Tools:
 <div style="display: inline_block"><br>
 
 [![Tools](https://skillicons.dev/icons?i=linux,git,github,vue,flutter,firebase,aws,gcp,pytorch&perline=3)](https://skillicons.dev)
@@ -25,15 +25,14 @@
 
 ---
 
-### 🌐 Connect with me:
+### Connect with me:
 <div> 
-  <a href="https://www.linkedin.com/in/natã-camargo-oliveira-104303250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
-  <a href="https://gitlab.com/Natanco" target="_blank"><img src="https://img.shields.io/badge/-GitLab-E2432a?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natã-camargo-oliveira-104303250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
-### 🐍 Contribution Snake:
+### Snake:
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Natanco1/Natanco1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Natanco1/Natanco1/output/github-contribution-grid-snake.svg">
