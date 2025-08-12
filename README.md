@@ -1,49 +1,43 @@
-<h1 align="center">Hey there! i am Natanco</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Natã+Camargo+Oliveira!;+Welcome+to+my+GitHub+corner!;" />
+</h1>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/natã-camargo-oliveira-104303250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanco1&layout=compact&langs_count=7&theme=dracula&show_icons=true&locale=en&hide=ShaderLab"/>
+</div>
+
+---
+
+### 🧑💻 Languages:
+<div style="display: inline_block"><br>
+
+[![Languages](https://skillicons.dev/icons?i=python,dart,javascript,c,bash,typescript&perline=3)](https://skillicons.dev)
+</div>
+
+---
+
+### 🛠️ Tools:
+<div style="display: inline_block"><br>
+
+[![Tools](https://skillicons.dev/icons?i=linux,git,github,vue,flutter,firebase,aws,gcp,pytorch&perline=3)](https://skillicons.dev)
+</div>
+
+---
+
+### 🌐 Connect with me:
+<div> 
+  <a href="https://www.linkedin.com/in/natã-camargo-oliveira-104303250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
   <a href="https://gitlab.com/Natanco" target="_blank"><img src="https://img.shields.io/badge/-GitLab-E2432a?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 </div>
- 
 
-## About me
+---
 
-<!-- <img src="./assets/pato.gif" align="right" width="100"> -->
+### 🐍 Contribution Snake:
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Natanco1/Natanco1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Natanco1/Natanco1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Natanco1/Natanco1/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="justify">Hello, my name is Natã, I'm 20 years old and I'm currently studying the 6th semester of Mechatronics Engineering. I look for challenging opportunities to apply my skills and grow in the professional market.</p>
-
-<p align="justify">
-I am passionate about technology and my goal is to become a senior developer. Currently, I'm improving myself in web and mobile development, focusing my efforts on mastering the tools and frameworks of the JavaScript and flutter ecosystem. I also aim to get better at problem solving and datastructures</p>
-
-## Programming Language
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50"/>
-</div>
-
-## Techs and Frameworks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="50" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="50"/>
-</div>
-
-## Currently Learning
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="50"/>
-  
-</div>
-
-## Tools
-<!-- <img src="./assets/pikachu.gif" align="right" width="100"> -->
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="50"/>       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="50"/>
-</div>
+---
