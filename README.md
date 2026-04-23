@@ -27,13 +27,14 @@
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48"/><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>Postgres</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/><br>GCP</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>ESP32</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="45" height="45"/><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/><br>Postgres</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45"/><br>Firebase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="45" height="45"/><br>GCP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45"/><br>ESP32</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45"/><br>Flutter</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br>Git</td>
   </tr>
 </table>
