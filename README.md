@@ -1,28 +1,39 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Natanco" />
-</h1>
+<h1 align="left" id="title"> Hello there! I'm Natã</h1>
+<h3 align="left">Mechatronics Engineer | AI Analyst | Backend Developer</h3>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Natanco1" alt="page views" />
+  <a href="https://www.linkedin.com/in/natã-camargo-oliveira-104303250/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-### Languages:
-<div style="display: inline_block"><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Natanco1&theme=github-dark&area=true" width="100%" />
 
-[![Languages](https://skillicons.dev/icons?i=python,dart,javascript,c,bash,typescript&perline=3)](https://skillicons.dev)
-</div>
+<br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanco1&layout=compact&theme=dark&hide=jupyter%20notebook" align="right" width="45%" />
 
-### Tools:
-<div style="display: inline_block"><br>
+- 🏢 &nbsp;Working on **Backend & LLM Dev**
+- 🌱 &nbsp;Focusing on **SQLAlchemy & Alembic**
+- 💬 &nbsp;Ask me about **Mechatronics & AI**
+- 💻 &nbsp;Connect on **[LinkedIn](https://www.linkedin.com/in/natã-camargo-oliveira-104303250/)**
 
-[![Tools](https://skillicons.dev/icons?i=linux,git,github,vue,flutter,firebase,aws,gcp,pytorch&perline=3)](https://skillicons.dev)
-</div>
+<br clear="right"/>
 
----
+<h2 align="left" id="tech">Favorite Tech</h2>
 
-### Connect with me:
-<div> 
-  <a href="https://www.linkedin.com/in/natã-camargo-oliveira-104303250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+> Tools, languages, and hardware I enjoy working with.
 
----
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48"/><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>Postgres</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/><br>GCP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>ESP32</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
+  </tr>
+</table>
