@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Natanco1&theme=github-dark&area=true" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanco1&layout=compact&theme=dark&hide=jupyter%20notebook" align="right" width="45%" />
-
 - 🏢 &nbsp;Working on **Backend & LLM Dev**
 - 🌱 &nbsp;Focusing on **SQLAlchemy & Alembic**
 - 💬 &nbsp;Ask me about **Mechatronics & AI**
